@@ -2,6 +2,14 @@
 
 -Create React App
 -Configured Tailwind CSS
+-Header
+-Routing of App
+-Login Form
+-Sign up Form
+-Form Validation
+-useRef Hook
+-Firebase Setup
+-Deploying our app to production
 
 # Features
 
@@ -10,7 +18,7 @@
 -redirected to Browse Page
 -Browse (after authentication)
 -Header
--login form
+
 -Main Movie
 -Trailer in Background
 -Title and Description
