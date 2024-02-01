@@ -10,6 +10,7 @@
 -redirected to Browse Page
 -Browse (after authentication)
 -Header
+-login form
 -Main Movie
 -Trailer in Background
 -Title and Description
