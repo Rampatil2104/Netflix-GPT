@@ -14,6 +14,13 @@
 -Implement Sign In user API
 -Created Redux Store with userSlice
 -Implemented SignOut Feature
+-Update Profile
+-Bugfix: Sign up user's displayname and profpic update
+-Bugfix: if user is not logged in redirect to /browse login page & vicversa
+-Unsubscribed to the onAuthStateChanged callback
+-Added Hardcoded values to the constant file
+-Register TMBD & create an app& get acess token
+-Get data form TMDB now playing movie list API
 
 # Features
 
